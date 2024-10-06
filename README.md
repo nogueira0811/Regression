@@ -7,4 +7,6 @@ This project investigates the relationship between total age-adjusted mortality 
 + Socioeconomic (e.g., education, population)
 + Pollution indicators
 
-Final fitted regression model based on analysis.
+Final fitted regression model based on analysis <br><br>
+
+Note that `report.html` is downloadable and contains the final report. 
