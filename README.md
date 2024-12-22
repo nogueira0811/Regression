@@ -1,5 +1,5 @@
 # Regression Analysis on Mortality and Environmental Factors #
-This project investigates the relationship between total age-adjusted mortality and various predictor variables such as climate, socioeconomic factors and pollution across 60 U.S. cities, using data from a 1973 study by McDonald and Schwing. The analysis is performed using multiple regression techniques to identify significant factors influencing mortality rates.
+This project investigates the relationship between total age-adjusted mortality and 15 predictor variables (e.g., climate, socioeconomic factors and pollution) across 60 U.S. cities using data from a 1973 study by McDonald and Schwing. The analysis is performed using multiple regression techniques to identify significant factors influencing mortality rates.
 
 ## Features ##
 15 predictor variables including: 
@@ -9,4 +9,4 @@ This project investigates the relationship between total age-adjusted mortality 
 
 Final fitted regression model based on analysis <br><br>
 
-Note that `report.html` is downloadable and contains the final report. 
+The `report.html` file is downloadable and contains the final report. 
