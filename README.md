@@ -1,4 +1,4 @@
-# Regression Analysis of Key Variables Influencing Mortality Rates
+# Regression Analysis of Mortality Rates across U.S. Cities
 
 This project explores the relationship between age-adjusted mortality rates and 15 key variables (e.g., climate, socioeconomic conditions, and pollution) across 60 U.S. cities. Multiple regression techniques are applied to identify significant contributors to mortality rates.
 
