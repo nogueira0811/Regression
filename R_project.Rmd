@@ -1,7 +1,7 @@
 ---
-title: "Regression Analysis - STAT 452"
+title: "Regression Analysis of Mortality Rates: Final Report"
 author: "Stefano Nogueira"
-date: "2024-05-12"
+date: "Due: May 12th, 2024"
 output: html_document
 ---
 
